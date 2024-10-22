@@ -1,0 +1,7 @@
+[2024-10-22 19:08:19,890] 23 root - INFO - 
+[-] Data Ingestion Started...
+[2024-10-22 19:08:19,897] 28 root - INFO - 
+[*] Data Ingestion Completed!
+[2024-10-22 19:08:19,908] 34 root - INFO - 
+[-] Performing Train-Test Split...
+[2024-10-22 19:08:19,908] 46 root - INFO - [!] Exception occured during Data Ingestion stage

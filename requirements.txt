@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+pandas-profiling
+pydantic-settings
+mlflow
+ipykernel
+mysql-connector-python
+python-dotenv
+
+
+-e .

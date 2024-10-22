@@ -1,0 +1,5 @@
+/.env
+/Climate_Forecasting.egg-info
+/build
+/dist
+/env
