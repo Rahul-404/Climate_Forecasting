@@ -4,3 +4,5 @@
 /dist
 /env
 /logs
+/src/Climate_Forecasting/__pycache__
+/src/Climate_Forecasting/components/__pycache__
